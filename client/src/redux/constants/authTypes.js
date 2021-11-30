@@ -1,0 +1,9 @@
+const AuthTypes = {
+    SET_LOADER:'SET_LOADER',
+    CLOSE_LOADER:"CLOSE_LOADER",
+    SET_TOKEN:"SET_TOKEN",
+    REMOVE_TOKEN: "REMOVE_TOKEN",
+    SET_ERROR:"SET_ERROR",
+    REMOVE_ERROR: "REMOVE_ERROR"
+};
+export default AuthTypes
